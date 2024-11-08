@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/recommendation/__init__.py
+src/recommendation/collaborativeAgorithm.py
+src/recommendation.egg-info/PKG-INFO
+src/recommendation.egg-info/SOURCES.txt
+src/recommendation.egg-info/dependency_links.txt
+src/recommendation.egg-info/top_level.txt
